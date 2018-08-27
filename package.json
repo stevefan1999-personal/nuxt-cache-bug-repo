@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nuxtjs/vuetify": "^0.4.2",
+    "nuxt": "npm:nuxt-edge"
+  }
+}
